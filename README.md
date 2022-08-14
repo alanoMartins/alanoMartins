@@ -2,7 +2,7 @@
 
 Facts about me:
 
-- 🔭 I’m currently working on Adentis and Dott
+- 🔭 I’m currently working on Adentis and Worten
 - 🌱 I’m currently learning Deep Reinforcement Learning
 - 🤔 I’m looking for help with researchs and writing articles
 - 💬 Ask me about anything, i ll love chat you
